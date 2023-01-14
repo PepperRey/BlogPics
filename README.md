@@ -1,0 +1,2 @@
+# BlogPics
+store the pictures
